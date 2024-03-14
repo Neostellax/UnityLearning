@@ -1,0 +1,4 @@
+repository "shaderTest@sawynture@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
